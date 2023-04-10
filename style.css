@@ -1,0 +1,14 @@
+@import url('https://fonts.google.com/specimen/Bebas+Neue');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(43, 240, 240);
+}
